@@ -1,4 +1,4 @@
-token = '6793082893:AAEzwEgPYk14p8E1sp6bsAouiTStf2NuA00'
+token = ''
 folder_id = 'b1gb1o17aj4e22s1c3m4'
 iam = 't1.9euelZqNmZTNi86KmsuWm8rGjIuXi-3rnpWajZmMmcqTisnKyJPOjYmVlpnl8_cpSwJO-e9lIThT_N3z92l5f03572UhOFP8zef1656VmpCUjIycxpKSm4uOzseQnM6W7_zF656VmpCUjIycxpKSm4uOzseQnM6WveuelZqYkMuNkJ3HipuSm8rLjIrHm7XehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.No8OT2NNw_gky-Z-Hs7j3ToJReSpIb_gskZJnpu1Jl3bmzDMtNEo1nUcnLDbiAvAfYVt3FAy-XHMQ-Je5lT6CA'
 admins_ids = ''
